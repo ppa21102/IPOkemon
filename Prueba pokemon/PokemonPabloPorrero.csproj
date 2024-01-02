@@ -1,0 +1,72 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Prueba_pokemon</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="bayaOram.png" />
+    <None Remove="burbuja2.png" />
+    <None Remove="burbuja3.png" />
+    <None Remove="burbuja4.png" />
+    <None Remove="burbujas1.png" />
+    <None Remove="caraFeliz.png" />
+    <None Remove="comer.png" />
+    <None Remove="consola.png" />
+    <None Remove="corazon1.png" />
+    <None Remove="escudoCA.png" />
+    <None Remove="escudoKratos.png" />
+    <None Remove="escudoSimbolo.png" />
+    <None Remove="espacio.gif" />
+    <None Remove="espiral.png" />
+    <None Remove="espiralblanca.jpg" />
+    <None Remove="espiralpokemon.png" />
+    <None Remove="fondoLago1.jpg" />
+    <None Remove="garra.png" />
+    <None Remove="hachaKratos.png" />
+    <None Remove="leviatan.png" />
+    <None Remove="maullar.png" />
+    <None Remove="ojoEnfadado3.png" />
+    <None Remove="ojoEnfadado4.png" />
+    <None Remove="piplupFoto2.webp" />
+    <None Remove="pokeball1.png" />
+    <None Remove="pokeball2.png" />
+    <None Remove="pokeball3.png" />
+    <None Remove="pokeballNueva.png" />
+    <None Remove="pokemonlogo.png" />
+    <None Remove="rayoRojo.png" />
+    <None Remove="rayoRojo2.png" />
+    <None Remove="zzz.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Imagenes\bayaOram.png" />
+    <Resource Include="Imagenes\burbuja2.png" />
+    <Resource Include="Imagenes\burbuja3.png" />
+    <Resource Include="Imagenes\burbuja4.png" />
+    <Resource Include="Imagenes\burbujas1.png" />
+    <Resource Include="Imagenes\caraFeliz.png" />
+    <Resource Include="Imagenes\corazon1.png" />
+    <Resource Include="Imagenes\escudoCA.png" />
+    <Resource Include="Imagenes\escudoSimbolo.png" />
+    <Resource Include="Imagenes\espiralpokemon.png" />
+    <Resource Include="Imagenes\fondoLago1.jpg" />
+    <Resource Include="Imagenes\garra.png" />
+    <Resource Include="Imagenes\hachaKratos.png" />
+    <Resource Include="Imagenes\leviatan.png" />
+    <Resource Include="Imagenes\maullar.png" />
+    <Resource Include="Imagenes\ojoEnfadado3.png" />
+    <Resource Include="Imagenes\ojoEnfadado4.png" />
+    <Resource Include="Imagenes\pokeball2.png" />
+    <Resource Include="Imagenes\pokeballNueva.png" />
+    <Resource Include="Imagenes\pokemonlogo.png" />
+    <Resource Include="Imagenes\rayoRojo.png" />
+    <Resource Include="Imagenes\zzz.png" />
+    <Resource Include="Imagenes\piplupFoto2.webp" />
+  </ItemGroup>
+
+</Project>

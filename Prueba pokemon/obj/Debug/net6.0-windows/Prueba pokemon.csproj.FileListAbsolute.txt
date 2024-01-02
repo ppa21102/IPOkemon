@@ -1,0 +1,21 @@
+C:\Users\pablo\source\repos\Prueba pokemon\Prueba pokemon\bin\Debug\net6.0-windows\Prueba pokemon.exe
+C:\Users\pablo\source\repos\Prueba pokemon\Prueba pokemon\bin\Debug\net6.0-windows\Prueba pokemon.deps.json
+C:\Users\pablo\source\repos\Prueba pokemon\Prueba pokemon\bin\Debug\net6.0-windows\Prueba pokemon.runtimeconfig.json
+C:\Users\pablo\source\repos\Prueba pokemon\Prueba pokemon\bin\Debug\net6.0-windows\Prueba pokemon.dll
+C:\Users\pablo\source\repos\Prueba pokemon\Prueba pokemon\bin\Debug\net6.0-windows\Prueba pokemon.pdb
+C:\Users\pablo\source\repos\Prueba pokemon\Prueba pokemon\obj\Debug\net6.0-windows\Prueba pokemon.csproj.AssemblyReference.cache
+C:\Users\pablo\source\repos\Prueba pokemon\Prueba pokemon\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\pablo\source\repos\Prueba pokemon\Prueba pokemon\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\pablo\source\repos\Prueba pokemon\Prueba pokemon\obj\Debug\net6.0-windows\Prueba pokemon_MarkupCompile.cache
+C:\Users\pablo\source\repos\Prueba pokemon\Prueba pokemon\obj\Debug\net6.0-windows\Prueba pokemon_MarkupCompile.lref
+C:\Users\pablo\source\repos\Prueba pokemon\Prueba pokemon\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\pablo\source\repos\Prueba pokemon\Prueba pokemon\obj\Debug\net6.0-windows\Prueba pokemon.g.resources
+C:\Users\pablo\source\repos\Prueba pokemon\Prueba pokemon\obj\Debug\net6.0-windows\Prueba pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\source\repos\Prueba pokemon\Prueba pokemon\obj\Debug\net6.0-windows\Prueba pokemon.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\Prueba pokemon\Prueba pokemon\obj\Debug\net6.0-windows\Prueba pokemon.AssemblyInfo.cs
+C:\Users\pablo\source\repos\Prueba pokemon\Prueba pokemon\obj\Debug\net6.0-windows\Prueba pokemon.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\Prueba pokemon\Prueba pokemon\obj\Debug\net6.0-windows\Prueba pokemon.dll
+C:\Users\pablo\source\repos\Prueba pokemon\Prueba pokemon\obj\Debug\net6.0-windows\refint\Prueba pokemon.dll
+C:\Users\pablo\source\repos\Prueba pokemon\Prueba pokemon\obj\Debug\net6.0-windows\Prueba pokemon.pdb
+C:\Users\pablo\source\repos\Prueba pokemon\Prueba pokemon\obj\Debug\net6.0-windows\Prueba pokemon.genruntimeconfig.cache
+C:\Users\pablo\source\repos\Prueba pokemon\Prueba pokemon\obj\Debug\net6.0-windows\ref\Prueba pokemon.dll
